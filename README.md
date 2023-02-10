@@ -1,2 +1,2 @@
 # DataAnalyst_Portfolio_Webscraping
-1.1_WebScraping_PortfolioProject:
+1_WebScraping_PortfolioProject:
